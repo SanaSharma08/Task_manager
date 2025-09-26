@@ -1,6 +1,8 @@
 # 📝 Simple Todo List Application
 This project is a basic yet functional Todo List application built with React, designed to help users manage their daily tasks efficiently. It allows users to add new tasks, mark them as completed, and provides a clear overview of their pending and finished items.
 
+- Demo: https://taskmanagerdraftsq.netlify.app/
+
 ## ✨ Features
 Add New Todos: Easily add new tasks to your list using an input field.
 
